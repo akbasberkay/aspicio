@@ -1,0 +1,10 @@
+19/06/2023 - Hello World
+
+Not all who wander are lost.
+
+This project will include computer vision in a slightly different approach.
+
+All gathered information here will be written here for clearance.
+
+Started computer vision course of "Python for Computer Vision with OpenCV and Deep Learning"
+
