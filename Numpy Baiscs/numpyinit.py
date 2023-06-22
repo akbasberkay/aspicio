@@ -31,3 +31,5 @@ some_matrix = np.arange(0,100).reshape((10,10))
 print(some_matrix)
 
 print(some_matrix[4][2]) # can do [4,2]
+
+print(some_matrix[:,1])
